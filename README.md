@@ -1,6 +1,4 @@
 # Hangman
-Hangman game in C++, <br>
-Written by Kevin Romero for, <br>
-CSC5 Intro to Programming at, <br>
-Riverside City College,
-Fall Semester 2013
+Name: Kevin Romero <br>
+Date: Fall Semester 2013 <br>
+Purpose: Project 1 Hangman in C++ for CSC5 Intro. To Programming <br>
